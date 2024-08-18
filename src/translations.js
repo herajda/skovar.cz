@@ -5,8 +5,12 @@ export const translations = {
     projects: "Projects",
     contact: "Contact",
     FAQ: "FAQ",
+    FAQ_joke: "yes, this is mostly a joke",
     welcome: "Stepan Kovar",
     intro: "Yeah, that is me… Welcome on my website!",
+
+    get_in_touch: "Get in touch",
+
     question1: "Why do you have so many phones?!",
     question2: "Why do you love Linux so much?!",
     question3: "Why do you believe that we should have a smaller state?",
@@ -17,7 +21,7 @@ export const translations = {
 
     aboutInfo: {
       name: "Štěpán Kovář",
-      occupation: "Student and Teacher",
+      occupation: ["Student", "Teacher"],
       skills: [
         "Python",
         "TensorFlow",
@@ -50,7 +54,7 @@ export const translations = {
         "Sbor Koště" : "TBA", 
       }, 
       contactInfo: {
-        signal: "https://signal.me/#eu/hCbN5mpp8UjCbGvAVsZkKVkrVFNdRl92_G7I9WEsoc-yueDpl_ZNno0smNSsSXJn",
+        signal: "https://signal.me/#kovar_stepan.19",
         email: [
           "kovar@skovar.cz",
           "kovar.stepan@protonmail.com",
@@ -69,9 +73,11 @@ export const translations = {
     projects: "Projekty",
     contact: "Kontakt",
     FAQ: "ČKO",
+    FAQ_joke: "jo, tohle je spíš vtip",
     welcome: "Štěpán Kovář",
-    intro: "Jono, to jsem já… Vítej na mé webové stránce!",
+    intro: "Jo, to jsem já… Vítej na mé webové stránce!",
 
+    get_in_touch: "Spojme se",
     question1: "Proč máš tolik mobilů?!",
     question2: "Co to furt máš s tím Linuxem?!",
     question3: "Proč bychom měli mít menší stát?",
@@ -81,7 +87,7 @@ export const translations = {
     
     aboutInfo: {
     "jméno": "Štěpán Kovář",
-    "povolání": "Student a Učitel",
+    "povolání": ["Student", "Učitel"],
     "dovednosti": [
       "Python",
       "TensorFlow",
@@ -115,7 +121,7 @@ export const translations = {
     },
     "kontakt": {
 
-      signal: "https://signal.me/#eu/hCbN5mpp8UjCbGvAVsZkKVkrVFNdRl92_G7I9WEsoc-yueDpl_ZNno0smNSsSXJn",
+      signal: "https://signal.me/#kovar_stepan.19",
       email: [
 
         "kovar@skovar.cz",

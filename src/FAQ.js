@@ -20,6 +20,7 @@ function FAQ() {
   return (
     <section className="section faq">
       <h1>{t.FAQ_LONG}</h1>
+      <div className="joke"><p>{t.FAQ_joke} &#128515;</p></div>
       <div className="faq-container">
         {faqData.map((item, index) => (
           <div key={index} className={`faq-item ${activeIndex === index ? 'active' : ''}`}>

@@ -209,6 +209,10 @@ button:hover {
   overflow: hidden;
   text-align: center;
 }
+.joke p {
+  text-align: center;
+}
+
 .faq {
   max-width: 800px;
   margin: 0 auto;
@@ -273,6 +277,99 @@ button:hover {
 .faq-answer p {
   margin: 0;
   line-height: 1.6;
+}
+#contact {
+  background-color: #1e1e1e;
+  padding: 4rem 0;
+}
+
+#contact .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+#contact h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+#contact .grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 2rem;
+}
+
+@media (min-width: 768px) {
+  #contact .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+#contact .bg-gray-100 {
+  background-color: #2a2a2a;
+}
+
+#contact .bg-white {
+  background-color: #333;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+}
+
+#contact h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+#contact ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#contact li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+#contact a {
+  color: #f4f4f4;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+#contact a:hover {
+  color: #ddd;
+}
+
+#contact .text-blue-500 { color: #3b82f6; }
+#contact .text-green-500 { color: #10b981; }
+#contact .text-purple-500 { color: #8b5cf6; }
+#contact .text-red-500 { color: #ef4444; }
+#contact .text-gray-700 { color: #d1d5db; }
+#contact .text-blue-600 { color: #2563eb; }
+#contact .text-blue-400 { color: #60a5fa; }
+
+#contact .text-2xl {
+  font-size: 1.5rem;
+}
+
+#contact .text-lg {
+  font-size: 1.125rem;
+}
+
+#contact .mr-2 {
+  margin-right: 0.5rem;
+}
+
+#contact .space-y-2 > * + * {
+  margin-top: 0.5rem;
+}
+
+#contact .space-y-4 > * + * {
+  margin-top: 1rem;
 }
 @media (max-width: 768px) {
   .header-content {
