@@ -41,6 +41,7 @@ function Header() {
             <li><Link to="/about" onClick={() => setMenuOpen(false)}>{t.about}</Link></li>
             <li><Link to="/projects" onClick={() => setMenuOpen(false)}>{t.projects}</Link></li>
             <li><Link to="/FAQ" onClick={() => setMenuOpen(false)}>{t.FAQ}</Link></li>
+            <li><Link to="/teaching" onClick={() => setMenuOpen(false)}>{t.teaching}</Link></li>
             <li><Link to="/contact" onClick={() => setMenuOpen(false)}>{t.contact}</Link></li>
           </ul>
         </nav>

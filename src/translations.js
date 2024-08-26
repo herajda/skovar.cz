@@ -8,9 +8,15 @@ export const translations = {
     FAQ_joke: "yes, this is mostly a joke",
     welcome: "Stepan Kovar",
     intro: "Yeah, that is me… Welcome on my website!",
-
+    
+    teaching: "Teaching",
     get_in_touch: "Get in touch",
 
+    teaching_info_1: "The school year 2024/25 I teach at ",  
+    teaching_info_2: "Gymnázium Nad Kavalírkou",  
+    teaching_info_3: " IT for 6th grade ",  
+    teaching_info_4: "IT seminar ",  
+    teaching_info_5: " for 8th grade.",  
     question1: "Why do you have so many phones?!",
     question2: "Why do you love Linux so much?!",
     question3: "Why do you believe that we should have a smaller state?",
@@ -131,7 +137,15 @@ export const translations = {
       github: "https://github.com/herajda"
     },
   },
-  FAQ_LONG: "ČASTO KLADENÉ OTÁZKY"
+  FAQ_LONG: "ČASTO KLADENÉ OTÁZKY",
+
+  teaching: "Výuka",
+  teaching_info_1: "Školní rok 2024/25 učim na ",  
+  teaching_info_2: "Gymnáziu Nad Kavalírkou",  
+  teaching_info_3: " informatiku sexty a ",  
+  teaching_info_4: "seminář z informatiky",  
+  teaching_info_5: " pro oktavány.",  
+
 
 
 }

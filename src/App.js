@@ -8,6 +8,7 @@ import About from './About.js';
 import Projects from './Projects.js';
 import Contact from './Contact.js';
 import FAQ from './FAQ.js';
+import Teaching from './Teaching.js';
 import './styles.css';
 
 
@@ -26,6 +27,7 @@ function App() {
               <Route path="/projects" component={Projects} />
               <Route path="/FAQ" component={FAQ} />
               <Route path="/contact" component={Contact} />
+              <Route path="/teaching" component={Teaching} />
             </Switch>
           </main>
         </div>
