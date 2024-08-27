@@ -10,7 +10,7 @@ function Home() {
 
   return (
     <section className="section home" style={{ backgroundImage: "url('background_stepan.jpg')", backgroundSize: 'cover' }}>
-      <h1>{t.welcome}</h1>
+      <h1>{t.name}</h1>
       <p>{t.intro}</p>
     </section>
   );

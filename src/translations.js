@@ -6,8 +6,8 @@ export const translations = {
     contact: "Contact",
     FAQ: "FAQ",
     FAQ_joke: "yes, this is mostly a joke",
-    welcome: "Stepan Kovar",
-    intro: "Yeah, that is me… Welcome on my website!",
+    name: "Stepan Kovar",
+    intro: "Machine Learning developer and Bitcoin enthusiast",
     
     teaching: "Teaching",
     get_in_touch: "Get in touch",
@@ -19,7 +19,7 @@ export const translations = {
     teaching_info_5: " for 8th grade.",  
     question1: "Why do you have so many phones?!",
     question2: "Why do you love Linux so much?!",
-    question3: "Why do you believe that we should have a smaller state?",
+    question3: "",
 
     answer1: "A few years ago I started experimenting with android without Google spying - GrapheneOS. At the beginning it was quite a challenge, because many things didn't work on this system. Therefore, I had other devices that added features that GrapheneOS lacked. But since then GrapheneOS has improved a lot and now almost everything works on it. I have gradually gotten to the stage where I try to use only one phone while keeping the others as a backup. More than once, this has worked well for me. I also got an iPhone so I could have access to the iOS world as well.",
 
@@ -80,8 +80,8 @@ export const translations = {
     contact: "Kontakt",
     FAQ: "ČKO",
     FAQ_joke: "jo, tohle je spíš vtip",
-    welcome: "Štěpán Kovář",
-    intro: "Jo, to jsem já… Vítej na mé webové stránce!",
+    name: "Štěpán Kovář",
+    intro: "Vývojář strojového učení a Bitcoin nadšenec",
 
     get_in_touch: "Spojme se",
     question1: "Proč máš tolik mobilů?!",
