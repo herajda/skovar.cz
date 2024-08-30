@@ -9,8 +9,15 @@ export const translations = {
     name: "Stepan Kovar",
     intro: "Machine Learning developer and Bitcoin enthusiast",
     
+    projects: "Projects",
+    projects_info: "This is the projects that I am currently working on in the free time:",
+    code_grader_info: "Automatic evaluation and grading of coding assignments",
+    logistic_regression_info: "Logistic regression classifier on the MNIST dataset",
+    alphazero_info: "personal attempt at creating a chess engine using Alphazero",
     teaching: "Teaching",
     get_in_touch: "Get in touch",
+
+
 
     teaching_info_1: "The school year 2024/25 I teach at ",  
     teaching_info_2: "Gymnázium Nad Kavalírkou",  
