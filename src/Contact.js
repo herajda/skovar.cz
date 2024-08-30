@@ -22,10 +22,6 @@ function Contact() {
                 <a href="https://github.com/herajda" className="text-lg">GitHub</a>
               </li>
               <li>
-                <FaLinkedin className="mr-2 text-blue-600 text-2xl" />
-                <a href="https://www.linkedin.com/in/yourusername" className="text-lg">LinkedIn</a>
-              </li>
-              <li>
                 <SiSignal className="mr-2 text-blue-400 text-2xl" />
                 <a href="https://signal.me/#kovar_stepan.19" className="text-lg">Signal</a>
               </li>
