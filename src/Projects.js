@@ -11,14 +11,9 @@ function Projects() {
       <p>{t.projects_info}</p>
       <div className="project-grid">
         <div className="project-card">
-          <h3>code-grader</h3>
+          <h3>codedu</h3>
           <p>{t.code_grader_info}</p>
-          <p><a href="https://github.com/herajda/code-grader">GitHub link</a></p>
-        </div>
-        <div className="project-card">
-          <h3>logistic-regression-haskell</h3>
-          <p>{t.logistic_regression_info}</p>
-          <p><a href="https://github.com/herajda/logistic_regression_haskell">GitHub link</a></p>
+          <p><a href="https://github.com/herajda/codedu">GitHub link</a></p>
         </div>
         <div className="project-card">
           <h3>AlphaZero Chess</h3>
