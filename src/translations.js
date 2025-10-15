@@ -19,9 +19,9 @@ export const translations = {
 
 
 
-    teaching_info_1: "The school year 2024/25 I teach at ",  
+    teaching_info_1: "The school year 2025/26 I teach at ",  
     teaching_info_2: "Gymnázium Nad Kavalírkou",  
-    teaching_info_3: " IT for 6th grade ",  
+    teaching_info_3: " IT for 1th, 4th, 5th and 6th grade and last year I have also taught ",  
     teaching_info_4: "IT seminar ",  
     teaching_info_5: " for 8th grade.",  
     question1: "Why do you have so many phones?!",
@@ -147,9 +147,9 @@ export const translations = {
   FAQ_LONG: "ČASTO KLADENÉ OTÁZKY",
 
   teaching: "Výuka",
-  teaching_info_1: "Školní rok 2024/25 učim na ",  
+  teaching_info_1: "Školní rok 2025/26 učim na ",  
   teaching_info_2: "Gymnáziu Nad Kavalírkou",  
-  teaching_info_3: " informatiku sexty a ",  
+  teaching_info_3: " informatiku primy, kvarty, kvinty a sexty a loni jsem učil také ",  
   teaching_info_4: "seminář z informatiky",  
   teaching_info_5: " pro oktavány.",  
 
